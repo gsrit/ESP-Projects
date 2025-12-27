@@ -63,7 +63,7 @@ This project is a dual-mode information dashboard designed for the **LilyGO TTGO
        style="border: 4px solid #ffffff; margin: 10px;" />
 </p>
 
-1. **This is Mode 1 , It shows all bands one by one every 3 seconds (Needs Button to be pushed for change)**
+2. **This is Mode 1 , It shows all bands one by one every 3 seconds (Needs Button to be pushed for change)**
 
 
 <p align="center">
