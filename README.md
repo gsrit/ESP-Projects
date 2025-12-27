@@ -1,4 +1,5 @@
-# Solar HF Band & Station Display (ESP32 + TFT)
+# Project 1 - Solar HF Band & Station Display (ESP32 + TFT)
+# File Name: 001main.cpp
 
 This project is a dual-mode information dashboard designed for the **LilyGO TTGO T-Display v1.1**. It provides real-time HF propagation data and a high-visibility station identification clock.
 
