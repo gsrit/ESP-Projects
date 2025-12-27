@@ -46,3 +46,37 @@ This project is a dual-mode information dashboard designed for the **LilyGO TTGO
    ```cpp
    const char* ssid = "YOUR_SSID";
    const char* password = "YOUR_PASSWORD";
+
+## Some pics of the working ESP
+
+1. **This is mode 2, it shows two output changes every 5 seconds(Default Mode)**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/011de4e3-77f6-4560-9d8b-be9555588683"
+       width="450"
+       style="border: 4px solid #ffffff; margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b8c1470-9f1d-4a5f-8201-dff4b427ded3"
+       width="450"
+       style="border: 4px solid #ffffff; margin: 10px;" />
+</p>
+
+1. **This is Mode 1 , It shows all bands one by one every 3 seconds (Needs Button to be pushed for change)**
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf6e820e-9c52-4834-8f3c-8e527c5a3ad2"
+       width="450"
+       style="border: 4px solid #ffffff; margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e93aacdc-f2fc-47f2-a4cf-d67faa45c805"
+       width="450"
+       style="border: 4px solid #ffffff; margin: 10px;" />
+</p>
+
+
+
